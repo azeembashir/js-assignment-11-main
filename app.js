@@ -25,11 +25,15 @@
 // document.write("The absolute value of " + num + " is " + absoluteValue);
 
 // task4
+// let diceValue = Math.floor(Math.random() * 6) + 1;
+// document.write("Random dice value: " + diceValue);
+
+// task5
 // var coinValue = Math.floor(Math.random() * 2) + 1;
 // var result = (coinValue === 1) ? "Tails" : "Heads";
 // document.write(coinValue + "<br>");
 // document.write("Random coin value: " + result);
 
-// task5
+// task6
 // var num = Math.floor(Math.random() * 100) + 1;
 // document.write("Random number between 1 and 100 is: " + num);
